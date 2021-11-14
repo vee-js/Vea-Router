@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Router for Vee.js
+Vea-Router is A Router for Vee.js
 
 ## Documentation
 
